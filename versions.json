@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.0.2.2",
+            "download_url": "https://github.com/drothe/megaman3-ap-poptracker/releases/download/v0.0.2.2/megaman3-ap-poptracker.zip",
+            "sha256": "19a991d9d44ee37e112a1b52ca4a51f9432b49f66dee91826169cd7a1d50a573",
+            "changelog": [
+                "Added missed Rush requirement for Gemini Man boss checks"
+            ]
+        },
+        {
             "package_version": "0.0.2.1",
             "download_url": "https://github.com/drothe/megaman3-ap-poptracker/releases/download/v0.0.2.1/megaman3-ap-poptracker.zip",
             "sha256": "7aabae5d096461a3018ab5c02bfad58a756817c0c01d58d1d6ad4b4b8f817006",
