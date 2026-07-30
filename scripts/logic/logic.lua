@@ -38,6 +38,10 @@ function can_traverse_long_water()
     return has("rush_jet") or has("rush_marine")
 end
 
+function has_any_rush()
+    return has("rush_coil") or has("rush_jet") or has("rush_marine")
+end
+
 WEAPONS = {
     MEGA_BUSTER = "0",
     NEEDLE_CANNON = "1",
